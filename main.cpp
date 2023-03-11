@@ -1,5 +1,5 @@
 /**
- *    @file: test.cc
+ *    @file: main.cc
  *  @author: viraj parmar
  *    @date: 3/9/2023         
  *   @brief: This program take the input form the file name test.txt and grade according to the students ansers ansd store the result in the 
